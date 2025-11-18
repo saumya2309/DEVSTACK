@@ -142,13 +142,8 @@ Stop DevStack:
 ./unstack.sh
 ```
 
-Clean everything:
-
-```bash
-./clean.sh
-```
-
----
+<img width="1919" height="629" alt="Screenshot 2025-11-18 235020" src="https://github.com/user-attachments/assets/717f9482-985a-469f-924c-d5b5f129f4a5" />
+<img width="1919" height="1031" alt="Screenshot 2025-11-18 234847" src="https://github.com/user-attachments/assets/0c02eff0-aa37-4fc2-8e0d-5232af7a8307" />
 
 
 
